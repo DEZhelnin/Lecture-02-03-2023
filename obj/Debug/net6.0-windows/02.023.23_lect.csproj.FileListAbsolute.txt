@@ -1,0 +1,17 @@
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\bin\Debug\net6.0-windows\02.023.23_lect.exe
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\bin\Debug\net6.0-windows\02.023.23_lect.deps.json
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\bin\Debug\net6.0-windows\02.023.23_lect.runtimeconfig.json
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\bin\Debug\net6.0-windows\02.023.23_lect.dll
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\bin\Debug\net6.0-windows\02.023.23_lect.pdb
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.csproj.AssemblyReference.cache
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\_02._023._23_lect.Form1.resources
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.csproj.GenerateResource.cache
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.AssemblyInfoInputs.cache
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.AssemblyInfo.cs
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.csproj.CoreCompileInputs.cache
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.dll
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\refint\02.023.23_lect.dll
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.pdb
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\02.023.23_lect.genruntimeconfig.cache
+C:\Users\balla\source\repos\02.023.23_lect\02.023.23_lect\obj\Debug\net6.0-windows\ref\02.023.23_lect.dll
